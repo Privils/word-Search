@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/word-Search/static/css/main.991c91bc.css",
+    "main.js": "/word-Search/static/js/main.02c4de47.js",
+    "static/js/453.d76d4eb4.chunk.js": "/word-Search/static/js/453.d76d4eb4.chunk.js",
+    "static/media/fa-solid-900.ttf": "/word-Search/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/word-Search/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/word-Search/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/word-Search/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/word-Search/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/1024.jpg": "/word-Search/static/media/1024.79b5b91d9e4a56f4d313.jpg",
+    "static/media/fa-regular-400.woff2": "/word-Search/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/768.jpg": "/word-Search/static/media/768.c2a462a39550c2395cba.jpg",
+    "static/media/fa-v4compatibility.ttf": "/word-Search/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/word-Search/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/logo.svg": "/word-Search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/word-Search/index.html",
+    "main.991c91bc.css.map": "/word-Search/static/css/main.991c91bc.css.map",
+    "main.02c4de47.js.map": "/word-Search/static/js/main.02c4de47.js.map",
+    "453.d76d4eb4.chunk.js.map": "/word-Search/static/js/453.d76d4eb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.991c91bc.css",
+    "static/js/main.02c4de47.js"
+  ]
+}
