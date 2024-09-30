@@ -66,3 +66,25 @@ border-bottom: 2px solid black !important;
   border: 1px solid rgb(0, 0, 0);
   font-size: 20px;
 }
+@media (max-width: 580px) {
+  .main{
+    width: 500px !important;
+  }
+  .main h3{
+    font-size: 2em;
+  }
+}
+@media (max-width: 500px) {
+  .main{
+    width: fit-content !important;
+  }
+  .main h3{
+    font-size: 2em;
+  }
+  .SearchWord{
+    border-radius: 5px;
+    width: fit-content;
+    height: auto;
+    font-size: 16px;
+  }
+}

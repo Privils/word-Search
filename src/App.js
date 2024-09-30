@@ -59,7 +59,7 @@ function App() {
       <div className="main container">
         <h3>The Word Search</h3>
         <div className="centeredDiv container">
-          <div className="inputContainer">
+          <div className="inputContainer container">
             <input
               type="text"
               value={search}
